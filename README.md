@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Ad-Tech**
 
-- 🌱 I’m currently learning **Rust, Dart and Flutter**
+- 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
