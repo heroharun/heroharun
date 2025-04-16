@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 💬 Ask me about **Golang, .Net, Java, React and Vue.Js**
+- 💬 Ask me about **Golang, .Net, Java, Python, React and Vue.Js**
 
 - 📫 How to reach me **harun.buyuktepe@gmail.com**
 
